@@ -8,9 +8,9 @@ SussyScript is a cursed amogus themed macro include built on top of PAWN for SA-
 
 ## Installation
 
-1. Download `SussyScript.inc`
+1. Download `sussyscript.inc`
 2. Place it in your `pawno/include` folder
-3. Add `#include <SussyScript>` to your gamemode
+3. Add `#include <sussyscript>` to your gamemode
 4. Profit?
 
 ## Basic Syntax
