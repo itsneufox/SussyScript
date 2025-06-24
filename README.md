@@ -4,7 +4,7 @@
 
 ## What is SussyScript?
 
-SussyScript is a cursed amogus themed macro include built on top of PAWN for SA-MP/open.mp. It replaces boring traditional keywords with sus Among Us terminology, making your code unreadable and absolutely chaotic.
+SussyScript is a cursed amogus themed macro include built on top of PAWN for SA-MP/open.mp. It replaces boring traditional keywords with sus amogus terminology, making your code unreadable and absolutely chaotic.
 
 ## Installation
 
